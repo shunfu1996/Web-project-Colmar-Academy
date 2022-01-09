@@ -1,4 +1,3 @@
-<<<<<<< HEAD
     .btn {
         padding: 10px 0px;
         width: 100%;
@@ -254,127 +253,127 @@
             margin: 16px;
         }
     }
-=======
-.btn {
-    padding: 10px 120px;
-    background: rgb(46, 44, 44);
-    color: aliceblue;
-}
-
-header nav {
-    display: flex;
-    height: 64px;
-}
-
-header img {
-    height: 32px;
-    margin-left: 24px;
-    margin-top: 16px;
-}
-
-header span {
-    margin-top: 16px;
-    height: 32px;
-}
-
-header ul {
-    margin-left: auto;
-    margin-top: 16px;
-}
-
-header li {
-    display: inline;
-    padding-left: 16px;
-}
-
-header a {
-    color: black;
-}
-
-.fristIntro {
-    background-color:grey;
-}
-
-.fristIntro img {
-    width: 100%;
-    height: auto;
-    padding: 32px 9px 32px 24px;
-}
-#bannerText{
-    margin: auto 0;
-}
-
-.secondIntro {
-    margin-bottom: 32px;
-}
-
-.secondIntro img {
-    width: 100%;
-    padding: 32px 9px 32px 24px;
-}
-
-.introText h1 {
-    margin-bottom: 24px;
-    margin-left: 24px;
-}
-
-#introRight img {
-    height: auto;
-    padding: 16px 0px 16px 16px;
-}
-
-#introRgiht h2,
-p {
-    margin-bottom: 8px;
-}
-#test {
-    margin: auto 0;
-}
-
-.card img {
-    width: 100%;
-}
-#start h1{
-    padding: 32px 0px;
-    text-align: center;
     
-}
-
-.cardRow {
-    display:flex;
-}
-.cardRow2 {
-    display:flex;
-    margin-top: 32px;
-    padding-bottom: 32px;
-}
-
-.cardLeft{
-    margin-left:72px;
-    margin-right: 16px;
-}
-
-.cardMid{
-    margin: 0px 16px;
-}
-
-.cardRight{
-    margin-right:72px;
-    margin-left: 16px;
-}
-
-.card {
-    padding: 0 auto;
-    width: 100%;
-}
-
-
-.backgroundColor{
-    background-color: grey;
+    .btn {
+        padding: 10px 120px;
+        background: rgb(46, 44, 44);
+        color: aliceblue;
+    }
     
-}
-
-.row{
-    margin: 0px !important;
-}
->>>>>>> ea8c7f0e4e3f6da39d1b6dc5532017b98b9e0ff1
+    header nav {
+        display: flex;
+        height: 64px;
+    }
+    
+    header img {
+        height: 32px;
+        margin-left: 24px;
+        margin-top: 16px;
+    }
+    
+    header span {
+        margin-top: 16px;
+        height: 32px;
+    }
+    
+    header ul {
+        margin-left: auto;
+        margin-top: 16px;
+    }
+    
+    header li {
+        display: inline;
+        padding-left: 16px;
+    }
+    
+    header a {
+        color: black;
+    }
+    
+    .fristIntro {
+        background-color: grey;
+    }
+    
+    .fristIntro img {
+        width: 100%;
+        height: auto;
+        padding: 32px 9px 32px 24px;
+    }
+    
+    #bannerText {
+        margin: auto 0;
+    }
+    
+    .secondIntro {
+        margin-bottom: 32px;
+    }
+    
+    .secondIntro img {
+        width: 100%;
+        padding: 32px 9px 32px 24px;
+    }
+    
+    .introText h1 {
+        margin-bottom: 24px;
+        margin-left: 24px;
+    }
+    
+    #introRight img {
+        height: auto;
+        padding: 16px 0px 16px 16px;
+    }
+    
+    #introRgiht h2,
+    p {
+        margin-bottom: 8px;
+    }
+    
+    #test {
+        margin: auto 0;
+    }
+    
+    .card img {
+        width: 100%;
+    }
+    
+    #start h1 {
+        padding: 32px 0px;
+        text-align: center;
+    }
+    
+    .cardRow {
+        display: flex;
+    }
+    
+    .cardRow2 {
+        display: flex;
+        margin-top: 32px;
+        padding-bottom: 32px;
+    }
+    
+    .cardLeft {
+        margin-left: 72px;
+        margin-right: 16px;
+    }
+    
+    .cardMid {
+        margin: 0px 16px;
+    }
+    
+    .cardRight {
+        margin-right: 72px;
+        margin-left: 16px;
+    }
+    
+    .card {
+        padding: 0 auto;
+        width: 100%;
+    }
+    
+    .backgroundColor {
+        background-color: grey;
+    }
+    
+    .row {
+        margin: 0px !important;
+    }
