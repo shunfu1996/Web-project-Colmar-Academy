@@ -35,13 +35,16 @@ header a {
 }
 
 .fristIntro {
-    background-color: rgb(170, 165, 165);
+    background-color:grey;
 }
 
 .fristIntro img {
     width: 100%;
     height: auto;
     padding: 32px 9px 32px 24px;
+}
+#bannerText{
+    margin: auto 0;
 }
 
 .secondIntro {
@@ -66,4 +69,54 @@ header a {
 #introRgiht h2,
 p {
     margin-bottom: 8px;
+}
+#test {
+    margin: auto 0;
+}
+
+.card img {
+    width: 100%;
+}
+#start h1{
+    padding: 32px 0px;
+    text-align: center;
+    
+}
+
+.cardRow {
+    display:flex;
+}
+.cardRow2 {
+    display:flex;
+    margin-top: 32px;
+    padding-bottom: 32px;
+}
+
+.cardLeft{
+    margin-left:72px;
+    margin-right: 16px;
+}
+
+.cardMid{
+    margin: 0px 16px;
+}
+
+.cardRight{
+    margin-right:72px;
+    margin-left: 16px;
+}
+
+.card {
+    padding: 0 auto;
+    width: 100%;
+}
+
+
+.backgroundColor{
+    background-color: grey;
+    
+}
+
+.row{
+    margin: 0px !important;
 }
